@@ -9,7 +9,7 @@ The goal of this project is to investigate applications of machine learning to n
 
 #### **Files Included**
 - **svm.ipynb**: Jupyter notebook implementing the SVM model, including data preprocessing, training, validation, and evaluation.
-- **data/**: Directory containing the neutron interaction dataset used in training the SVM model ().
+- **data/**: Directory containing the neutron interaction dataset used in training the SVM model (F27.csv).
 
 
 #### **Requirements**
