@@ -53,6 +53,7 @@ pip install numpy scikit-learn matplotlib
 #### **Contributors**
 - Raven Mott – Developer
 - Dr. Thomas Redpath – Project Supervisor (Virginia State University Nuclear Science Lab)
+- Facility for Rare Isotope Beams (FRIB)
 
 This work is part of a larger project that explores the use of machine learning methods in nuclear physics experiments, contributing to the Modular Neutron Array (MoNA) and the Large multi-Institutional Scintillating Array (LISA) collaboration at FRIB. It provides hands-on experience in machine learning, data analysis, and scientific communication.
 
